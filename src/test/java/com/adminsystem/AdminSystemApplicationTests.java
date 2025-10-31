@@ -1,10 +1,10 @@
-package com.Sneaker_Collection;
+package com.adminsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SneakerCollectionApplicationTests {
+class AdminSystemApplicationTests {
 
 	@Test
 	void contextLoads() {

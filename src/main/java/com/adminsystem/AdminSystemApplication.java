@@ -1,13 +1,13 @@
-package com.Sneaker_Collection;
+package com.adminsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SneakerCollectionApplication {
+public class AdminSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SneakerCollectionApplication.class, args);
+		SpringApplication.run(AdminSystemApplication.class, args);
 	}
 
 }
